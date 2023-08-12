@@ -1,4 +1,4 @@
-list = ["a","o","u","i","e"]
+list = ["a","o","u","i","e","A","O","U","I","E"]
 
 letter = input("Enter the letter  ")
 
